@@ -1,3 +1,3 @@
 # Python-Pedia
 
-A Wikipedia for Python Programming Language.
+A One Stop for Python Programming Resources.
