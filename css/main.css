@@ -95,10 +95,26 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+@font-face {
+font-family: 'Myriad Pro Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Myriad Pro Regular'), url('../fonts/MYRIADPRO-REGULAR.woff') format('woff');
+}
+
+@font-face {
+font-family: 'Myriad Pro Bold';
+font-style: normal;
+font-weight: normal;
+src: local('Myriad Pro Bold'), url('../fonts/MYRIADPRO-BOLD.woff') format('woff');
+}
 
 
-
-
+body
+{
+    font-family: 'Myriad Pro Regular';
+    font-weight: normal;
+}
 
 
 
