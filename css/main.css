@@ -1,31 +1,12 @@
-/*! HTML5 Boilerplate v5.2.0 | MIT License | https://html5boilerplate.com/ */
-
-/*
- * What follows is the result of much research on cross-browser styling.
- * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
- * Kroc Camen, and the H5BP dev community and team.
- */
-
-/* ==========================================================================
-   Base styles: opinionated defaults
-   ========================================================================== */
-
 html {
     color: #222;
     font-size: 1em;
     line-height: 1.4;
 }
 
-/*
- * Remove text-shadow in selection highlight:
- * https://twitter.com/miketaylr/status/12228805301
- *
- * These selection rule sets have to be separate.
- * Customize the background color to match your design.
- */
-
 ::-moz-selection {
     background: #b3d4fc;
+    color: red;
     text-shadow: none;
 }
 
@@ -33,10 +14,6 @@ html {
     background: #b3d4fc;
     text-shadow: none;
 }
-
-/*
- * A better looking default horizontal rule
- */
 
 hr {
     display: block;
@@ -47,11 +24,6 @@ hr {
     padding: 0;
 }
 
-/*
- * Remove the gap between audio, canvas, iframes,
- * images, videos and the bottom of their containers:
- * https://github.com/h5bp/html5-boilerplate/issues/440
- */
 
 audio,
 canvas,
@@ -62,27 +34,15 @@ video {
     vertical-align: middle;
 }
 
-/*
- * Remove default fieldset styles.
- */
-
 fieldset {
     border: 0;
     margin: 0;
     padding: 0;
 }
 
-/*
- * Allow only vertical resizing of textareas.
- */
-
 textarea {
     resize: vertical;
 }
-
-/* ==========================================================================
-   Browser Upgrade Prompt
-   ========================================================================== */
 
 .browserupgrade {
     margin: 0.2em 0;
@@ -92,21 +52,21 @@ textarea {
 }
 
 /* ==========================================================================
-   Author's custom styles
+   Python-Pedia's custom styles
    ========================================================================== */
 
 @font-face {
-font-family: 'Myriad Pro Regular';
-font-style: normal;
-font-weight: normal;
-src: local('Myriad Pro Regular'), url('../fonts/MYRIADPRO-REGULAR.woff') format('woff');
+    font-family: 'Myriad Pro Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Myriad Pro Regular'), url('../fonts/MYRIADPRO-REGULAR.woff') format('woff');
 }
 
 @font-face {
-font-family: 'Myriad Pro Bold';
-font-style: normal;
-font-weight: normal;
-src: local('Myriad Pro Bold'), url('../fonts/MYRIADPRO-BOLD.woff') format('woff');
+    font-family: 'Myriad Pro Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Myriad Pro Bold'), url('../fonts/MYRIADPRO-BOLD.woff') format('woff');
 }
 
 
@@ -116,15 +76,301 @@ body
     font-weight: normal;
 }
 
+#header
+{
+    background-color: #29dcb2;
+    text-align: center;
+    padding: 20px 0;
+    box-shadow: 0 0 3px #333;
+    margin: 0px;
+    color: #fff;
+}
 
+#header h1
+{
+    font-family: 'Myriad Pro Bold';
+    font-weight: normal;
+    font-size: 42px;
+    margin: 0px;
+    margin-top: 10px;
+}
 
+#header .row
+{
+    margin: 0px;
+}
 
+#header-social
+{
+    margin-top: 30px;
+}
 
+#header a
+{
+    color: #fff;
+}
 
+.python-logo {
+    background: white;
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -ms-backface-visibility: hidden;
+    backface-visibility: hidden;
+    width: 85px;
+    height: 85px;
+    position: relative;
+    margin: 0 auto;
+    border-radius: 100px;
+    border: solid 5px white;
+    animation: play 1.5s ease infinite;
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -ms-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
 
+.python-logo:before {
+    background: white;
+    content: "";
+    width: 120px;
+    height: 50px;
+    position: absolute;
+    top: 13px;
+    right: 16px;
+    border-radius: 100px;
+    border: solid 15px white;
+    z-index: 99998;
+    transform: rotate(45deg);
+    transform-origin: bottom;
+}
 
+.python-logo:after {
+    background: #29dcb2;
+    background-size: 100% 100%;
+    content: "Py";
+    line-height: 105px;
+    color: white;
+    font-size: 50px;
+    font-family: 'Myriad Pro Regular', "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    position: absolute;
+    border-radius: 150px;
+    z-index: 99999 !important;
+    margin-left: -20px;
+}
 
+@keyframes play
+{
+  0% {
+    transform: scale(1); }
 
+  15% {
+    box-shadow: 0 0 0 20px rgba(255, 255, 255, 0.2); }
+
+  25% {
+    box-shadow: 0 0 0 20px rgba(255, 255, 255, 0.2), 0 0 0 40px rgba(255, 255, 255, 0.2); }
+
+  30% {
+    transform: scale(1); }
+
+  50% {
+    box-shadow: 0 0 0 20px rgba(255, 255, 255, 0.2), 0 0 0 40px rgba(255, 255, 255, 0.2), 0 0 0 60px rgba(255, 255, 255, 0.2); }
+
+  80% {
+    transform: scale(1); }
+}
+
+#python-apps
+{
+    margin-top: 100px;
+}
+
+#python-apps .fa
+{
+    color: #29dcb2;
+}
+
+.application
+{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom:60px;
+    border-right:1px solid #29dcb2;
+    border-bottom:1px solid #29dcb2;
+    border-bottom-right-radius:60px;
+    -webkit-transition-duration:.4s;
+    -moz-transition-duration:.4s;
+    -o-transition-duration:.4s;
+    transition-duration:.4s;
+    -webkit-transition-property:all;
+    -moz-transition-property:all;
+    -o-transition-property:all;
+    transition-property:all;
+    -webkit-transition-timing-function:ease;
+    -moz-transition-timing-function:ease;
+    -o-transition-timing-function:ease;
+    transition-timing-function:ease
+}
+
+.application .application-header
+{
+    width:100%;
+    padding:5px 0 5px 0;
+    background-color:#29dcb2;
+    border-top-left-radius:60px;
+    -webkit-transition-duration:.4s;
+    -moz-transition-duration:.4s;
+    -o-transition-duration:.4s;
+    transition-duration:.4s;
+    -webkit-transition-property:all;
+    -moz-transition-property:all;
+    -o-transition-property:all;
+    transition-property:all;
+    -webkit-transition-timing-function:ease;
+    -moz-transition-timing-function:ease;
+    -o-transition-timing-function:ease;
+    transition-timing-function:ease;
+}
+
+.application .application-header h3 
+{
+    color:#fff;
+}
+
+.application .application-content 
+{
+    color: #333;
+    padding:15px 15px;
+    border-left:1px solid #29dcb2;
+    border-bottom-right-radius:60px;
+    text-align: justify;
+    -webkit-transition-duration:.4s;
+    -moz-transition-duration:.4s;
+    -o-transition-duration:.4s;
+    transition-duration:.4s;
+    -webkit-transition-property:all;
+    -moz-transition-property:all;
+    -o-transition-property:all;
+    transition-property:all;
+    -webkit-transition-timing-function:ease;
+    -moz-transition-timing-function:ease;
+    -o-transition-timing-function:ease;
+    transition-timing-function:ease
+}
+
+.application .application-content i.fa 
+{
+    -webkit-transition-duration:.4s;
+    -moz-transition-duration:.4s;
+    -o-transition-duration:.4s;
+    transition-duration:.4s;
+    -webkit-transition-property:all;
+    -moz-transition-property:all;
+    -o-transition-property:all;
+    transition-property:all;
+    -webkit-transition-timing-function:ease;
+    -moz-transition-timing-function:ease;
+    -o-transition-timing-function:ease;
+    transition-timing-function:ease
+}
+
+.application .application-content p 
+{
+    -webkit-transition-duration:.4s;
+    -moz-transition-duration:.4s;
+    -o-transition-duration:.4s;
+    transition-duration:.4s;
+    -webkit-transition-property:all;
+    -moz-transition-property:all;
+    -o-transition-property:all;
+    transition-property:all;
+    -webkit-transition-timing-function:ease;
+    -moz-transition-timing-function:ease;
+    -o-transition-timing-function:ease;
+    transition-timing-function:ease
+}
+
+.application:hover .application-header 
+{
+    background-color:#21caa3
+}
+
+.application:hover .application-content 
+{
+    background-color:#29dcb2
+}
+
+.application:hover .application-content i.fa 
+{
+    color:#f3f3f3;
+    text-shadow:1px 1px 1px #1eb491,
+    2px 2px 1px #1eb491,
+    3px 3px 1px #1eb491,
+    4px 4px 1px #1eb491,
+    5px 5px 1px #1eb491,
+    6px 6px 1px #1eb491,
+    7px 7px 1px #1eb491,
+    8px 8px 1px #1eb491,
+    9px 9px 1px #1eb491,
+    10px 10px 1px #1eb491,
+    11px 11px 1px #1eb491,
+    12px 12px 1px #1eb491,
+    13px 13px 1px #1eb491,
+    14px 14px 1px #1eb491,
+    15px 15px 1px #1eb491,
+    16px 16px 1px #1eb491,
+    17px 17px 1px #1eb491,
+    18px 18px 1px #1eb491,
+    19px 19px 1px #1eb491,
+    20px 20px 1px #1eb491,
+    21px 21px 1px #1eb491,
+    22px 22px 1px #1eb491,
+    23px 23px 1px #1eb491,
+    24px 24px 1px #1eb491,
+    25px 25px 1px #1eb491,
+    0px 0 1px #000
+}
+
+.application:hover .application-content p 
+{
+    color:#f3f3f3
+}
+
+footer
+{
+  text-align: center;
+  color: #aaa;
+  font-size: 14px;
+  padding: 15px 0;
+  background-color: #fff
+}
+
+footer a
+{
+    color: #000;
+    font-weight: 900;
+}
+
+footer a:hover
+{
+    color: #aaa;
+    text-decoration: none;
+}
+
+/* ==========================================================================
+   Media Queries
+   ========================================================================== */
+
+@media only screen and (max-width: 480px) {
+    #header h1
+    {
+        margin-top: 20px;
+    }
+}
 
 
 /* ==========================================================================

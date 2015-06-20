@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Lead Developer: Parbhat Puri
+	Contact: me [at] parbhatpuri.com 
+	Twitter: @parbhatpuri
 
 # THANKS
 
