@@ -54,32 +54,28 @@ textarea {
    Python-Pedia's custom styles
    ========================================================================== */
 
-@font-face {
-    font-family: 'Myriad Pro Regular';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Myriad Pro Regular'), url('../fonts/MYRIADPRO-REGULAR.woff') format('woff');
-}
-
-@font-face {
-    font-family: 'Myriad Pro Bold';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Myriad Pro Bold'), url('../fonts/MYRIADPRO-BOLD.woff') format('woff');
-}
-
-
 body
 {
-    font-family: 'Myriad Pro Regular';
+    font-family: 'Open Sans', sans-serif;
     font-weight: normal;
+}
+
+p
+{
+  margin: 0 0 10px;
+}
+
+.text-center
+{
+    text-align: center;
 }
 
 #header
 {
     background-color: #29dcb2;
     text-align: center;
-    padding: 20px 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
     box-shadow: 0 0 3px #333;
     margin: 0px;
     color: #fff;
@@ -87,21 +83,21 @@ body
 
 #header h1
 {
-    font-family: 'Myriad Pro Bold';
+    font-family: 'Open Sans', sans-serif;
     font-weight: normal;
     font-size: 42px;
     margin: 0px;
-    margin-top: 10px;
+    margin-top: 5px;
 }
 
 #header h4
 {
-    font-weight: bold;
-}
-
-#header .row
-{
-    margin: 0px;
+    line-height: 1.6;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    text-align: center;
 }
 
 #header-social
@@ -109,12 +105,23 @@ body
     margin-top: 30px;
 }
 
+#header .row
+{
+    margin: 0px;
+}
+
 #header a
 {
     color: #fff;
 }
 
-.python-logo {
+#header a:hover
+{
+    color: green;
+}
+
+.python-logo
+{
     background: white;
     -webkit-backface-visibility: hidden;
     -moz-backface-visibility: hidden;
@@ -133,7 +140,8 @@ body
     backface-visibility: hidden;
 }
 
-.python-logo:before {
+.python-logo:before
+{
     background: white;
     content: "";
     width: 120px;
@@ -148,15 +156,15 @@ body
     transform-origin: bottom;
 }
 
-.python-logo:after {
+.python-logo:after
+{
     background: #29dcb2;
     background-size: 100% 100%;
     content: "Py";
     line-height: 105px;
     color: white;
-    font-size: 50px;
-    font-family: 'Myriad Pro Regular', "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
-    font-weight: bold;
+    font-size: 40px;
+    font-family: 'Open Sans', "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
     text-align: center;
     width: 100px;
     height: 100px;
@@ -179,7 +187,7 @@ body
     box-shadow: 0 0 0 20px rgba(255, 255, 255, 0.2), 0 0 0 40px rgba(255, 255, 255, 0.2); }
 
   30% {
-    transform: scale(1); }
+    transform: scale(1.1); }
 
   50% {
     box-shadow: 0 0 0 20px rgba(255, 255, 255, 0.2), 0 0 0 40px rgba(255, 255, 255, 0.2), 0 0 0 60px rgba(255, 255, 255, 0.2); }
@@ -188,9 +196,10 @@ body
     transform: scale(1); }
 }
 
+
 #python-apps
 {
-    margin-top: 100px;
+    margin-top: 95px;
 }
 
 #python-apps .fa
@@ -205,6 +214,7 @@ body
     margin-bottom:60px;
     border-right:1px solid #29dcb2;
     border-bottom:1px solid #29dcb2;
+    border-top-left-radius: 40px;
     border-bottom-right-radius:40px;
     -webkit-transition-duration:.4s;
     -moz-transition-duration:.4s;
@@ -240,12 +250,18 @@ body
     transition-timing-function:ease;
 }
 
-.application .application-header h3 
+.application .application-header h3
 {
     color:#fff;
+    text-align: center;
+    font-size: 24px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    font-weight: 500;
 }
 
-.application .application-content 
+.application .application-content
 {
     color: #333;
     padding:15px 15px;
@@ -266,7 +282,7 @@ body
     transition-timing-function:ease
 }
 
-.application .application-content i.fa 
+.application .application-content i.fa
 {
     -webkit-transition-duration:.4s;
     -moz-transition-duration:.4s;
@@ -282,7 +298,7 @@ body
     transition-timing-function:ease
 }
 
-.application .application-content p 
+.application .application-content p
 {
     -webkit-transition-duration:.4s;
     -moz-transition-duration:.4s;
@@ -298,17 +314,22 @@ body
     transition-timing-function:ease
 }
 
-.application:hover .application-header 
+.application:hover
+{
+    box-shadow: 0 0 10px #333;
+}
+
+.application:hover .application-header
 {
     background-color:#21caa3
 }
 
-.application:hover .application-content 
+.application:hover .application-content
 {
     background-color:#29dcb2
 }
 
-.application:hover .application-content i.fa 
+.application:hover .application-content i.fa
 {
     color:#f3f3f3;
     text-shadow:1px 1px 1px #1eb491,
@@ -339,7 +360,7 @@ body
     0px 0 1px #000
 }
 
-.application:hover .application-content p 
+.application:hover .application-content p
 {
     color:#f3f3f3
 }
@@ -355,13 +376,13 @@ footer
 
 footer a
 {
-    color: #000;
+    color: #aaa;
     font-weight: 900;
 }
 
 footer a:hover
 {
-    color: #aaa;
+    color: #333;
     text-decoration: none;
 }
 
@@ -369,10 +390,11 @@ footer a:hover
    Media Queries
    ========================================================================== */
 
-@media only screen and (max-width: 480px) {
-    #header h1
+@media only screen and (max-width: 768px) {
+    #logo
     {
-        margin-top: 20px;
+        margin-top: 30px;
+        margin-bottom: 30px;
     }
 }
 
