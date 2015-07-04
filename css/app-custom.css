@@ -900,6 +900,11 @@ code .comment {
 	padding-left: 15px;
 }
 
+#python-center
+{
+	margin-bottom: -8px;
+}
+
 #header-logo
 {
 	width: 20%;

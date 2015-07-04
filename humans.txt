@@ -6,6 +6,8 @@
 	Lead Developer: Parbhat Puri
 	Contact: me [at] parbhatpuri.com 
 	Twitter: @parbhatpuri
+    Github: @parbhat
+    Blog: https://parbhatpuri.com
 
 # THANKS
 
