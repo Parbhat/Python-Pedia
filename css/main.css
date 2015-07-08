@@ -314,6 +314,11 @@ p
     transition-timing-function:ease
 }
 
+.application a
+{
+    text-decoration: none;
+}
+
 .application:hover
 {
     box-shadow: 0 0 10px #333;
