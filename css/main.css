@@ -160,7 +160,7 @@ p
 {
     background: #29dcb2;
     background-size: 100% 100%;
-    content: "Py";
+    content: url("../img/python-logo.png");
     line-height: 105px;
     color: white;
     font-size: 40px;

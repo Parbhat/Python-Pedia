@@ -900,11 +900,6 @@ code .comment {
 	padding-left: 15px;
 }
 
-#python-center
-{
-	margin-bottom: -8px;
-}
-
 #heading-logo
 {
 	width: 20%;
@@ -934,6 +929,12 @@ code .comment {
     color: green;
 }
 
+.app-logo
+{
+	width: 125px;
+	margin-left: 30px;
+}
+
 /* ==========================================================================
 	 Media Queries
 	 ========================================================================== */
@@ -953,5 +954,12 @@ code .comment {
 	#heading-social
 	{
 		width: 100%;
+	}
+
+	.app-logo
+	{
+		width: 134px;
+		height: 105px;
+		margin-left: 0px;
 	}
 }
