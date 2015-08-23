@@ -932,7 +932,12 @@ code .comment {
 .app-logo
 {
 	width: 125px;
-	margin-left: 30px;
+	margin-left: -30px;
+}
+
+.fa-2x
+{
+	font-size: 2.15em !important;
 }
 
 /* ==========================================================================
@@ -954,12 +959,13 @@ code .comment {
 	#heading-social
 	{
 		width: 100%;
+		margin-top: 47px;
 	}
 
 	.app-logo
 	{
 		width: 134px;
 		height: 105px;
-		margin-left: 0px;
+		margin-left: -20px;
 	}
 }
