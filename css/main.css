@@ -115,9 +115,14 @@ p
 
 #heading-social
 {
-    margin-top: 40px;
+    margin-top: 25px;
     width: 20%;
     float: left;
+}
+
+.social-share
+{
+    margin-top: 20px;
 }
 
 #heading a
