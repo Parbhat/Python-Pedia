@@ -397,6 +397,28 @@ WebSocket
 * [Crossbar](https://github.com/crossbario/crossbar/) - Open-source Unified Application Router (Websocket & WAMP for Python on Autobahn).
 * [WebSocket-for-Python](https://github.com/Lawouach/WebSocket-for-Python) - WebSocket client and server library for Python 2 and 3 as well as PyPy.
 
+Tutorials
+=========
+
+Books/Resources
+---------------
+
+* [Official Django Tutorial](https://docs.djangoproject.com/en/1.8/intro/tutorial01/)
+* [Official Flask tutorial](http://flask.pocoo.org/docs/0.10/tutorial/)
+* [Full Stack Python](http://www.fullstackpython.com/)
+* [TaskBuster Django Tutorial](http://www.marinamele.com/taskbuster-django-tutorial)
+* [Two Scoops of Django: Best Practices for Django 1.8](http://twoscoopspress.com/products/two-scoops-of-django-1-8)
+* [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/)
+* [Lightweight Django](http://www.amazon.in/Lightweight-Django/dp/149194594X/)
+* [High Performance Django ](http://www.amazon.in/High-Performance-Django/dp/1508748128/)
+
+Online courses/Videos
+---------------------
+
+* [Coding for Entrepreneurs](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRcd-q4vR5qAgOZUuz8041S)
+* [Go Django](https://godjango.com/)
+* [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
+
 Contributors
 ============
 

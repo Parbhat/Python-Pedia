@@ -93,6 +93,24 @@ MapReduce
 * [PySpark](http://spark.apache.org/docs/latest/programming-guide.html) - The Spark Python API.
 * [streamparse](https://github.com/Parsely/streamparse) - Run Python code against real-time streams of data. Integrates with [Apache Storm](https://storm.incubator.apache.org/).
 
+Tutorials
+=========
+
+Books/Resources
+---------------
+
+* [Data Science from Scratch: First Principles with Python](http://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X)
+* [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](http://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793)
+* [Practical Data Science in Python](http://radimrehurek.com/data_science_python/)
+* [Learning scikit-learn: Machine Learning in Python](https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python)
+* [Learn Data Science](http://learnds.com/)
+
+Online courses/Videos
+---------------------
+
+* [Harvard CS109 Data Science](http://cs109.github.io/2014/)
+* [Coursera Introduction to Data Science](https://www.coursera.org/course/datasci)
+
 Contributors
 ============
 
