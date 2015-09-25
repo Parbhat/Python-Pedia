@@ -49,6 +49,7 @@ Science and Data Analysis
 * [statsmodels](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
 * [SymPy](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
 * [zipline](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
+* [FEniCS](http://fenicsproject.org) - The FEniCS Project is a collection of free software for the automated, efficient solution of differential equations. 
 
 Data Visualization
 ------------------
