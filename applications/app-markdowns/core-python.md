@@ -216,7 +216,8 @@ Code Analysis and Linter
     * [Flake8](https://pypi.python.org/pypi/flake8) - The modular source code checker: pep8, pyflakes and co.
     * [pylama](https://pylama.readthedocs.org/) - Code audit tool for Python and JavaScript.
     * [Pylint](http://www.pylint.org/) - A source code analyzer.
-
+* Automated Refactoring
+    * [isort](https://github.com/timothycrosley/isort) - Automatically re-sorts and groups a projects import statements to conform to pep8 and/or internal coding standards. Fast and highly configurable.
 Foreign Function Interface
 --------------------------
 
