@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://pythonpedia.com/</loc>
+  <lastmod>2015-09-25T07:14:37+00:00</lastmod>
+</url>
+<url>
+  <loc>https://pythonpedia.com/applications/scientific-and-numeric.html</loc>
+  <lastmod>2015-09-25T07:14:37+00:00</lastmod>
+</url>
+<url>
+  <loc>https://pythonpedia.com/applications/web-development.html</loc>
+  <lastmod>2015-09-25T07:14:37+00:00</lastmod>
+</url>
+<url>
+  <loc>https://pythonpedia.com/applications/core-python.html</loc>
+  <lastmod>2015-09-25T07:14:37+00:00</lastmod>
+</url>
+<url>
+  <loc>https://pythonpedia.com/applications/network-programming.html</loc>
+  <lastmod>2015-09-25T07:14:37+00:00</lastmod>
+</url>
+<url>
+  <loc>https://pythonpedia.com/applications/game-development.html</loc>
+  <lastmod>2015-09-25T07:14:37+00:00</lastmod>
+</url>
+<url>
+  <loc>https://pythonpedia.com/applications/embedded-python.html</loc>
+  <lastmod>2015-09-25T07:14:37+00:00</lastmod>
+</url>
+<url>
+  <loc>https://pythonpedia.com/applications/database-access.html</loc>
+  <lastmod>2015-09-25T07:14:37+00:00</lastmod>
+</url>
+<url>
+  <loc>https://pythonpedia.com/applications/devops.html</loc>
+  <lastmod>2015-09-25T07:14:37+00:00</lastmod>
+</url>
+<url>
+  <loc>https://pythonpedia.com/applications/guis.html</loc>
+  <lastmod>2015-09-25T07:14:37+00:00</lastmod>
+</url>
+<url>
+  <loc>https://pythonpedia.com/applications/testing.html</loc>
+  <lastmod>2015-09-25T07:14:37+00:00</lastmod>
+</url>
+<url>
+  <loc>https://pythonpedia.com/applications/tutorials.html</loc>
+  <lastmod>2015-09-25T07:14:37+00:00</lastmod>
+</url>
+</urlset>
