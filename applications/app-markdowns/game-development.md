@@ -24,3 +24,4 @@ Contributors
 The following people helped in creating the above content.
 
 * Contributors to <a href="https://github.com/vinta/awesome-python" target="_blank">awesome-python</a>
+* [Niclas Eriksen](https://github.com/NiclasEriksen)
