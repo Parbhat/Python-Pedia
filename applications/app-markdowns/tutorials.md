@@ -11,6 +11,7 @@ Books/Resources
 * [Dive Into Python 3](http://www.diveinto.org/python3/)
 * [A Byte of Python](http://www.swaroopch.com/notes/python/)
 * [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
+* [Intermediate Python](http://book.pythontips.com/en/latest/)
 
 Online courses/Videos
 ---------------------
