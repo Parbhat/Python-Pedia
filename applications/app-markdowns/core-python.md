@@ -218,6 +218,7 @@ Code Analysis and Linter
     * [Pylint](http://www.pylint.org/) - A source code analyzer.
 * Automated Refactoring
     * [isort](https://github.com/timothycrosley/isort) - Automatically re-sorts and groups a projects import statements to conform to pep8 and/or internal coding standards. Fast and highly configurable.
+
 Foreign Function Interface
 --------------------------
 
@@ -261,3 +262,4 @@ Contributors
 The following people helped in creating the above content.
 
 * Contributors to <a href="https://github.com/vinta/awesome-python" target="_blank">awesome-python</a>
+* [Timothy Edmund Crosley](https://github.com/timothycrosley)
