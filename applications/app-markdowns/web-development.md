@@ -67,6 +67,7 @@ RESTful API
 * [flask-restless](https://flask-restless.readthedocs.org/en/latest/) - Generating RESTful APIs for database models defined with SQLAlchemy.
 * [flask-api-utils](https://github.com/marselester/flask-api-utils) - Flask extension that takes care of API representation and authentication.
 * [falcon](http://falconframework.org/) - A high-performance Python framework for building cloud APIs and web app backends.
+* [hug](https://github.com/timothycrosley/hug) - APIs for the future. Enables creating APIs with automatically generated documentation and versioning support with minimal lines of code. Built on-top of Falcon and Python3.
 * [eve](https://github.com/nicolaiarocci/eve) - REST API framework powered by Flask, MongoDB and good intentions.
 * [sandman](https://github.com/jeffknupp/sandman) - Automated REST APIs for existing database-driven systems.
 * [restless](http://restless.readthedocs.org/en/latest/) - Framework agnostic REST framework based on lessons learned from TastyPie.
