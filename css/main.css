@@ -297,6 +297,11 @@ p
     transition-timing-function:ease
 }
 
+.application .application-content .application-content-text
+{
+    padding-top: 8px;
+}
+
 .application .application-content i.fa
 {
     -webkit-transition-duration:.4s;
