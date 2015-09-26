@@ -12,6 +12,7 @@ Books/Resources
 * [A Byte of Python](http://www.swaroopch.com/notes/python/)
 * [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
 * [Intermediate Python](http://book.pythontips.com/en/latest/)
+* [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html)
 
 Online courses/Videos
 ---------------------
