@@ -166,9 +166,10 @@ Text Processing
 Specific Formats Processing
 ---------------------------
 
-*Libraries for parsing and manipulating specific text formats.*
+*Libraries for parsing and manipulating specific formats.*
 
 * General
+    * [rows](https://github.com/turicas/rows) - A common, beautiful interface to tabular data, no matter the format
     * [tablib](https://github.com/kennethreitz/tablib) - A module for Tabular Datasets in XLS, CSV, JSON, YAML.
 * Office
     * [Marmir](https://github.com/brianray/mm) - Takes Python data structures and turns them into spreadsheets.
