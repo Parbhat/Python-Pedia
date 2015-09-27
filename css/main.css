@@ -227,9 +227,9 @@ p
     margin-left: 40px;
     margin-right: 40px;
     margin-bottom: 60px;
-    border-right: 1px solid #29dcb2;
     border-bottom:1px solid #29dcb2;
-    border-top-left-radius: 40px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
     border-bottom-right-radius:40px;
     -webkit-transition-duration:.4s;
     -moz-transition-duration:.4s;
@@ -250,7 +250,8 @@ p
     width:100%;
     padding:5px 0 5px 0;
     background-color:#29dcb2;
-    border-top-left-radius: 40px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
     -webkit-transition-duration:.4s;
     -moz-transition-duration:.4s;
     -o-transition-duration:.4s;
@@ -281,6 +282,7 @@ p
     color: #333;
     padding:15px 15px;
     border-left:1px solid #29dcb2;
+    border-right: 1px solid #29dcb2;
     border-bottom-right-radius:40px;
     text-align: justify;
     -webkit-transition-duration:.4s;
