@@ -1,7 +1,7 @@
 Web Development
 ===============
 
-Python powers Biggest sites on the Internet like YouTube, Pinterest, Quora, Instagram, Reddit, Disqus etc. The frameworks like Django, Flask offer rich features and keeps you focused on your problem not common stuff. The Web applications built with Python are scalable and secure. So what are you waiting for?
+Python powers biggest sites on the internet like YouTube, Pinterest, Quora, Instagram, Reddit, Disqus etc. The frameworks like Django, Flask offer rich features and keeps you focused on your problem not common stuff. The Web applications built with Python are scalable and secure. So what are you waiting for?
 
 The following list covers almost every aspect of Web Development in Python.
 
