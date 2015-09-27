@@ -53,6 +53,7 @@ ORM
 * [Django Models](https://docs.djangoproject.com/en/dev/topics/db/models/) - A part of Django.
 * [SQLAlchemy](http://www.sqlalchemy.org/) - The Python SQL Toolkit and Object Relational Mapper.
     * [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy)
+* [SQLObject](http://www.sqlobject.org/) - An Object Relational Manager for providing an object interface to your database
 * [peewee](https://github.com/coleifer/peewee) - A small, expressive ORM.
 * [PonyORM](http://ponyorm.com) - ORM that provides a generator-oriented interface to SQL.
 
