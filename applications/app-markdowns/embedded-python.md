@@ -13,6 +13,7 @@ Hardware
 * [PyUserInput](https://github.com/SavinaRoja/PyUserInput) - A module for cross-platform control of the mouse and keyboard.
 * [scapy](http://www.secdev.org/projects/scapy/) - A brilliant packet manipulation library.
 * [wifi](https://wifi.readthedocs.org/) - A Python library and command line tool for working with WiFi on Linux.
+* [Pingo](http://pingo.io) - Pingo provides a uniform API to program devices like the Raspberry Pi, pcDuino, Intel Galileo, etc.
 
 Contributors
 ============
@@ -20,3 +21,4 @@ Contributors
 The following people helped in creating the above content.
 
 * Contributors to <a href="https://github.com/vinta/awesome-python" target="_blank">awesome-python</a>
+* <a href="https://github.com/leotada" target="_blank">leotada</a>
