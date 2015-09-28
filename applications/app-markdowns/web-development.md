@@ -414,6 +414,7 @@ Books/Resources
 * [Lightweight Django](http://www.amazon.in/Lightweight-Django/dp/149194594X/)
 * [High Performance Django ](http://www.amazon.in/High-Performance-Django/dp/1508748128/)
 * [Tango with Django ](http://www.tangowithdjango.com/)
+* [Mastering Django](http://masteringdjango.com/)
 
 Online courses/Videos
 ---------------------
@@ -429,4 +430,5 @@ The following people helped in creating the above content.
 
 * Contributors to <a href="https://github.com/vinta/awesome-python" target="_blank">awesome-python</a>
 * [Timothy Edmund Crosley](https://github.com/timothycrosley)
+* [Sandip Bhagat](https://github.com/sandipbgt)
 
