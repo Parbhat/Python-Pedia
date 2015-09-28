@@ -432,4 +432,5 @@ The following people helped in creating the above content.
 * Contributors to <a href="https://github.com/vinta/awesome-python" target="_blank">awesome-python</a>
 * [Timothy Edmund Crosley](https://github.com/timothycrosley)
 * [Sandip Bhagat](https://github.com/sandipbgt)
+* [Mohit Bajoria](https://github.com/mbj36)
 
