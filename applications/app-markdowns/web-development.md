@@ -112,6 +112,7 @@ Authentication
     * [PyJWT](https://github.com/progrium/pyjwt) - Implementation of the JSON Web Token draft 01.
     * [python-jws](https://github.com/brianloveswords/python-jws) - Implementation of JSON Web Signatures draft 02.
     * [python-jwt](https://github.com/davedoesdev/python-jwt) - Module for generating and verifying JSON Web Tokens.
+    * [django-rest-framework-jwt](https://github.com/GetBlimp/django-rest-framework-jwt) - JSON Web Token Authentication support for Django REST Framework
 
 Geolocation
 -----------
