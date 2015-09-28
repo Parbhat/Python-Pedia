@@ -49,7 +49,7 @@ Science and Data Analysis
 * [statsmodels](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
 * [SymPy](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
 * [zipline](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
-* [FEniCS](http://fenicsproject.org) - The FEniCS Project is a collection of free software for the automated, efficient solution of differential equations. 
+* [FEniCS](http://fenicsproject.org) - The FEniCS Project is a collection of free software for the automated, efficient solution of differential equations.
 
 Data Visualization
 ------------------
@@ -111,6 +111,7 @@ Online courses/Videos
 
 * [Harvard CS109 Data Science](http://cs109.github.io/2014/)
 * [Coursera Introduction to Data Science](https://www.coursera.org/course/datasci)
+* [Coursera Introduction to Natural Language Processing](https://www.coursera.org/course/nlpintro)
 
 Contributors
 ============
@@ -119,3 +120,4 @@ The following people helped in creating the above content.
 
 * Contributors to <a href="https://github.com/vinta/awesome-python" target="_blank">awesome-python</a>
 * [Christopher Laing](https://github.com/chrislaing)
+* [João Barbosa](https://github.com/joaobarbosa)
