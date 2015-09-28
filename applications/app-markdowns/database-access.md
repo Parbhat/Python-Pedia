@@ -30,6 +30,7 @@ Database Drivers
 * [PyMySQL](https://github.com/PyMySQL/PyMySQL) - Pure Python MySQL driver compatible to mysql-python.
 * [queries](https://github.com/gmr/queries) - A wrapper of the psycopg2 library for interacting with PostgreSQL.
 * [txpostgres](http://txpostgres.readthedocs.org/) - Twisted based asynchronous driver for PostgreSQL.
+* [cx_Oracle](http://cx-oracle.sourceforge.net/) - The Oracle database connector for Python.
 
 ### NoSQL Databases
 
