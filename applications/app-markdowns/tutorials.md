@@ -13,12 +13,14 @@ Books/Resources
 * [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
 * [Intermediate Python](http://book.pythontips.com/en/latest/)
 * [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html)
+* [Python Books](http://pythonbooks.revolunet.com/)
 
 Online courses/Videos
 ---------------------
 
 * [Mit 6.00x on edX - Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-5)
 * [Google's Python Class](https://developers.google.com/edu/python/?hl=en)
+* [A hands-on introduction to Python for beginning programmers - Jessica McKellar](https://www.youtube.com/watch?v=MirG-vJOg04)
 
 Contributors
 ============

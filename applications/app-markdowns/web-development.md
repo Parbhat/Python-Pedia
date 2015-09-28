@@ -407,19 +407,27 @@ Books/Resources
 
 * [Official Django Tutorial](https://docs.djangoproject.com/en/1.8/intro/tutorial01/)
 * [Official Flask tutorial](http://flask.pocoo.org/docs/0.10/tutorial/)
+* [Official Bottle tutorial](http://bottlepy.org/docs/dev/tutorial_app.html)
+* [Django Girls tutorial](http://tutorial.djangogirls.org/)
+* [Flask tutorial - Miguel Grinberg](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [Full Stack Python](http://www.fullstackpython.com/)
 * [TaskBuster Django Tutorial](http://www.marinamele.com/taskbuster-django-tutorial)
 * [Two Scoops of Django: Best Practices for Django 1.8](http://twoscoopspress.com/products/two-scoops-of-django-1-8)
 * [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/)
 * [Lightweight Django](http://www.amazon.in/Lightweight-Django/dp/149194594X/)
 * [High Performance Django ](http://www.amazon.in/High-Performance-Django/dp/1508748128/)
+* [Free Python Books](http://pythonbooks.revolunet.com/)
 
 Online courses/Videos
 ---------------------
 
 * [Coding for Entrepreneurs](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRcd-q4vR5qAgOZUuz8041S)
 * [Go Django](https://godjango.com/)
+* [Getting Started with Django](http://gettingstartedwithdjango.com/)
+* [Getting Started with Django - Pycon](https://www.youtube.com/watch?v=KZHXjGP71kQ)
+* [Flask Workshop - Miguel Grinberg](https://www.youtube.com/watch?v=DIcpEg77gdE)
 * [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
+
 
 Contributors
 ============
@@ -428,4 +436,5 @@ The following people helped in creating the above content.
 
 * Contributors to <a href="https://github.com/vinta/awesome-python" target="_blank">awesome-python</a>
 * [Timothy Edmund Crosley](https://github.com/timothycrosley)
+* [Eric Hideki](https://github.com/erichideki/)
 
