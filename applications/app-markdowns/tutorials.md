@@ -30,3 +30,4 @@ The following people helped in creating the above content.
 * Contributors to <a href="https://github.com/vinta/awesome-python" target="_blank">awesome-python</a>
 * [M.Yasoob Ullah Khalid](https://github.com/yasoob)
 * [Noah](https://github.com/DigitalMockingbird)
+* [Eric Hideki](https://github.com/erichideki/)

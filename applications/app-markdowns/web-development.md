@@ -416,7 +416,6 @@ Books/Resources
 * [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/)
 * [Lightweight Django](http://www.amazon.in/Lightweight-Django/dp/149194594X/)
 * [High Performance Django ](http://www.amazon.in/High-Performance-Django/dp/1508748128/)
-* [Free Python Books](http://pythonbooks.revolunet.com/)
 
 Online courses/Videos
 ---------------------
