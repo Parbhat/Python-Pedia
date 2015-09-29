@@ -15,6 +15,7 @@ DevOps Tools
 * [Docker Compose](https://docs.docker.com/compose/) - Fast, isolated development environments using [Docker](https://www.docker.com/).
 * [Fabtools](https://github.com/ronnix/fabtools) - Tools for writing awesome Fabric files.
 * [gitapi](http://bitbucket.org/haard/gitapi) - Pure-Python API for git.
+* [GitPython](https://github.com/gitpython-developers/GitPython) - Python library used to interact with git repositories
 * [gunnery](https://github.com/gunnery/gunnery) - Multipurpose task execution tool for distributed systems with web-based interface.
 * [hgapi](http://bitbucket.org/haard/hgapi) - Pure-Python API for Mercurial.
 * [honcho](https://github.com/nickstenning/honcho) - A Python port of [Foreman](https://github.com/ddollar/foreman), a tool for managing Procfile-based applications.
