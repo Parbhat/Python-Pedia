@@ -31,6 +31,7 @@ Database Drivers
 * [queries](https://github.com/gmr/queries) - A wrapper of the psycopg2 library for interacting with PostgreSQL.
 * [txpostgres](http://txpostgres.readthedocs.org/) - Twisted based asynchronous driver for PostgreSQL.
 * [cx_Oracle](http://cx-oracle.sourceforge.net/) - The Oracle database connector for Python.
+* [pymssql](http://www.pymssql.org/) - A simple database interface to Microsoft SQL Server.
 
 ### NoSQL Databases
 
@@ -77,3 +78,4 @@ The following people helped in creating the above content.
 * Contributors to <a href="https://github.com/vinta/awesome-python" target="_blank">awesome-python</a>
 * [Quasar Jarosz](https://github.com/quasarj)
 * [iury](https://github.com/IuryAlves)
+* [Ermogenes Palacio](https://github.com/ermogenes/)

@@ -112,6 +112,7 @@ Authentication
     * [PyJWT](https://github.com/progrium/pyjwt) - Implementation of the JSON Web Token draft 01.
     * [python-jws](https://github.com/brianloveswords/python-jws) - Implementation of JSON Web Signatures draft 02.
     * [python-jwt](https://github.com/davedoesdev/python-jwt) - Module for generating and verifying JSON Web Tokens.
+    * [django-rest-framework-jwt](https://github.com/GetBlimp/django-rest-framework-jwt) - JSON Web Token Authentication support for Django REST Framework
 
 Geolocation
 -----------
@@ -416,6 +417,8 @@ Books/Resources
 * [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/)
 * [Lightweight Django](http://www.amazon.in/Lightweight-Django/dp/149194594X/)
 * [High Performance Django ](http://www.amazon.in/High-Performance-Django/dp/1508748128/)
+* [Tango with Django ](http://www.tangowithdjango.com/)
+* [Mastering Django](http://masteringdjango.com/)
 
 Online courses/Videos
 ---------------------
@@ -435,5 +438,10 @@ The following people helped in creating the above content.
 
 * Contributors to <a href="https://github.com/vinta/awesome-python" target="_blank">awesome-python</a>
 * [Timothy Edmund Crosley](https://github.com/timothycrosley)
+<<<<<<< HEAD
 * [Eric Hideki](https://github.com/erichideki/)
+=======
+* [Sandip Bhagat](https://github.com/sandipbgt)
+* [Mohit Bajoria](https://github.com/mbj36)
+>>>>>>> upstream/develop
 
