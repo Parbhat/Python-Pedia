@@ -14,6 +14,7 @@ Books/Resources
 * [Intermediate Python](http://book.pythontips.com/en/latest/)
 * [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html)
 * [Python Books](http://pythonbooks.revolunet.com/)
+* [Online Python Tutor](http://www.pythontutor.com/)
 
 Online courses/Videos
 ---------------------
