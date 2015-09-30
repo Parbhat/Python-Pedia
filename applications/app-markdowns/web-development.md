@@ -419,6 +419,7 @@ Books/Resources
 * [High Performance Django ](http://www.amazon.in/High-Performance-Django/dp/1508748128/)
 * [Tango with Django ](http://www.tangowithdjango.com/)
 * [Mastering Django](http://masteringdjango.com/)
+* [Explore Flask](https://exploreflask.com/)
 
 Online courses/Videos
 ---------------------
@@ -438,10 +439,8 @@ The following people helped in creating the above content.
 
 * Contributors to <a href="https://github.com/vinta/awesome-python" target="_blank">awesome-python</a>
 * [Timothy Edmund Crosley](https://github.com/timothycrosley)
-<<<<<<< HEAD
 * [Eric Hideki](https://github.com/erichideki/)
-=======
 * [Sandip Bhagat](https://github.com/sandipbgt)
 * [Mohit Bajoria](https://github.com/mbj36)
->>>>>>> upstream/develop
+
 
