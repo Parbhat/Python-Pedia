@@ -69,6 +69,7 @@ ORM
 ### Others
 
 * [butterdb](https://github.com/Widdershin/butterdb) - A Python ORM for Google Drive Spreadsheets.
+* [snaql](https://github.com/semirook/snaql) - Raw .QL queries builder and organizer for Python.
 
 Contributors
 ============
@@ -79,3 +80,4 @@ The following people helped in creating the above content.
 * [Quasar Jarosz](https://github.com/quasarj)
 * [iury](https://github.com/IuryAlves)
 * [Ermogenes Palacio](https://github.com/ermogenes/)
+* [Roman Zaiev](https://github.com/semirook)
