@@ -16,6 +16,13 @@ Books/Resources
 * [Python Books](http://pythonbooks.revolunet.com/)
 * [Online Python Tutor](http://www.pythontutor.com/)
 
+Python Community and Updates
+---------------
+
+* [Python weekly website](http://www.pythonweekly.com)
+* [PyCon India Community](https://in.pycon.org/2015/)
+* [PyDelhi Community](https://pydelhi.org)
+
 Online courses/Videos
 ---------------------
 
