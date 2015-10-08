@@ -257,6 +257,14 @@ Compatibility
 * [Python-Modernize](https://github.com/mitsuhiko/python-modernize) - Modernizes Python code for eventual Python 3 migration.
 * [Six](https://pypi.python.org/pypi/six) - Python 2 and 3 compatibility utilities.
 
+Image processing
+-------------
+
+*Libraries for opening, manipulating and saving images.*
+
+* [PIL](https://pypi.python.org/pypi/PIL) - Adds image processing capabilities to your Python interpreter.
+* [pillow](https://python-pillow.github.io/) - The friendly PIL fork.
+
 Contributors
 ============
 
