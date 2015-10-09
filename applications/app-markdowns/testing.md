@@ -20,7 +20,7 @@ Testing
 * [pytest](http://pytest.org/) - A mature full-featured Python testing tool.
 * [pyvows](http://heynemann.github.io/pyvows/) - BDD style testing for Python. Inspired by [Vows.js](http://vowsjs.org/).
 * [Robot Framework](https://github.com/robotframework/robotframework) - A generic test automation framework.
-* [Slash](https://github.com/slash-testing/slash) - A highly customizable testing framework written in Python
+* [Slash](https://getslash.github.io) - A highly customizable testing framework written in Python
 * [Doctest](https://docs.python.org/2/library/doctest.html) - Test interactive Python examples
 
 ### Web Testing
