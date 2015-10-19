@@ -940,6 +940,35 @@ code .comment {
 	font-size: 2.15em !important;
 }
 
+#search-show-btn
+{
+    margin: 0 15px;
+    background-color: #29DCB2;
+    color: white;
+    border: none;
+    border-radius: 10%;
+    transition: .2s ease-out;
+    cursor: pointer;
+    font-weight: 900;
+}
+
+#search-show-btn:hover
+{
+	background-color: white;
+	color: #29DCB2;
+}
+
+.search-button
+{
+    margin-right: 5px;
+    margin-top: 5px;
+    background-color: #29DCB2;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 10%;
+}
+
 /* ==========================================================================
 	 Media Queries
 	 ========================================================================== */
@@ -967,5 +996,10 @@ code .comment {
 		width: 134px;
 		height: 105px;
 		margin-left: -20px;
+	}
+
+	#search-show-btn
+	{
+		margin: 0px;
 	}
 }
