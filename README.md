@@ -13,6 +13,7 @@ Python Pedia is one stop solution for Python Programming Resources. The Resource
 * [Guis](https://pythonpedia.com/applications/guis.html)
 * [Testing](https://pythonpedia.com/applications/testing.html)
 * [Tutorials](https://pythonpedia.com/applications/tutorials.html)
+* [Python Community](https://pythonpedia.com/applications/community.html)
 
 Contributing
 ------------
