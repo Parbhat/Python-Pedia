@@ -1,7 +1,13 @@
 Python Community
 ================
 
-The community section covers links to different Pycons organised worldwide. It also contains links to local python meet up groups and various conferences like Djangocon, Pydata etc.
+Python has a large and diverse community. The community spreads the use of language by organising conferences like Pycon, Djangocon, PyData etc. Local user groups play a key role in educating beginners.
+
+Python Meetup Groups
+--------------------
+
+* [Official local user groups list](https://wiki.python.org/moin/LocalUserGroups)
+* [World map of Python Meetups in meetup.com](http://python.meetup.com/)
 
 Pycons
 ------
@@ -49,13 +55,17 @@ Pycons
 
 Conferences
 -----------
-* [Djangocon Europe 2016](https://2016.djangocon.eu/)
-* [Djangocon US 2015](https://2015.djangocon.us/)
-* [Pydata seattle 2015](http://pydata.org/Seattle2015)
-* [Pydata london 2015](http://pydata.org/london2015)
-* [Pydata paris 2015](http://pydataparis.joinux.org/)
-* [Pydata dallas 2015](http://pydata.org/dal2015)
-* [Pydata berlin 2015](http://pydata.org/berlin2015)
+
+* [Djangocon Europe](https://2016.djangocon.eu/)
+* [Djangocon US](https://2015.djangocon.us/)
+* [PyData](http://pydata.org/)
+
+Newsletters
+-----------
+
+* [Python Weekly](http://www.pythonweekly.com/)
+* [PyCoder's Weekly](http://pycoders.com/)
+* [Import Python](http://importpython.com/)
 
 Contributors
 ============
