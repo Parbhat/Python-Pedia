@@ -310,6 +310,7 @@ Web Crawling
 * [portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy.
 * [pyspider](https://github.com/binux/pyspider) - A powerful spider system.
 * [RoboBrowser](https://github.com/jmcarp/robobrowser) - A simple, Pythonic library for browsing the web without a standalone web browser.
+* [Weboob](http://weboob.org/) - Standardized way to interact with websites (hundreds supported with the option to write your own module).
 
 Web Content Extracting
 ----------------------
