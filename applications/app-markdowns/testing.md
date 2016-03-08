@@ -38,6 +38,7 @@ Testing
 * [httpretty](http://falcao.it/HTTPretty/) - HTTP request mock tool for Python.
 * [mock](https://pypi.python.org/pypi/mock) - A Python Mocking and Patching Library for Testing.
 * [responses](https://github.com/dropbox/responses) - A utility library for mocking out the requests Python library.
+* [betamax](https://github.com/sigmavirus24/betamax) - Testing apps that use requests without using mock
 
 ### Code Coverage
 
