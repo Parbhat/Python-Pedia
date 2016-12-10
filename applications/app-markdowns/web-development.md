@@ -25,6 +25,9 @@ Web Frameworks
 * [TurboGears](http://www.turbogears.org/) - The Web Framework that starts as a microframework and scales up to a full stack solution.
 * [web.py](http://webpy.org/) - A web framework for Python that is as simple as it is powerful.
 * [web2py](http://www.web2py.com) - A full stack web framework and platform focused in the ease of use.
+* [webapp2](https://webapp2.readthedocs.io/en/latest/) - A lightweight Python web framework compatible with Google App Engine’s webapp.
+* [Ferris](https://ferris-framework.appspot.com/) - A Lightweight, customizable framework written in Python to harness the power of App Engine and accelerate application development.
+
 
 CMS
 ---
