@@ -27,6 +27,9 @@ Web Frameworks
 * [web2py](http://www.web2py.com) - A full stack web framework and platform focused in the ease of use.
 * [webapp2](https://webapp2.readthedocs.io/en/latest/) - A lightweight Python web framework compatible with Google App Engine’s webapp.
 * [Ferris](https://ferris-framework.appspot.com/) - A Lightweight, customizable framework written in Python to harness the power of App Engine and accelerate application development.
+* [CubicWeb](https://www.cubicweb.org/) -A semantic web application framework featuring a query language, a selection+view mechanism, multiple databases, security, workflows, reusable components, etc.
+* [WebBot](http://www.webbot.ws/Home) - A QT inspired web framework that includes a graphical interface builder, AJAX abstraction, and integration support for Google's AppEngine.
+* [Lino](http://www.lino-framework.org/) - a framework for creating customized enterprise-level Rich Internet Applications using Sencha ExtJS and Django.
 
 
 CMS
@@ -434,6 +437,9 @@ Online courses/Videos
 * [Getting Started with Django - Pycon](https://www.youtube.com/watch?v=KZHXjGP71kQ)
 * [Flask Workshop - Miguel Grinberg](https://www.youtube.com/watch?v=DIcpEg77gdE)
 * [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
+* [Learn Flask-Tutorialspoint](http://www.tutorialspoint.com/flask/)
+
+
 
 
 Contributors
