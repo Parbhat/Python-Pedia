@@ -12,6 +12,7 @@ Database
 * [PipelineDB](http://www.pipelinedb.com/) - The Streaming SQL Database.
 * [TinyDB](https://github.com/msiemens/tinydb) - A tiny, document-oriented database.
 * [ZODB](http://www.zodb.org/) - A native object database for Python. A key-value and object graph database.
+* [SQLite](https://docs.python.org/3.6/library/sqlite3.html) - Lightweight disk-based database that doesn’t require a separate server process
 
 Database Drivers
 ----------------
