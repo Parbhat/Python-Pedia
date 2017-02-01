@@ -1,7 +1,7 @@
 Database Access
 ===============
 
-Python comes with a Sqlite Database and can be connected to other Databases by libraries like mysql-python, psycopg2, PyMongo etc. The Libraries like SQLAlchemy, Django ORM helps in implementing ORM.
+Python comes with a sqlite3 module and can be connected to other Databases by libraries like mysql-python, psycopg2, PyMongo etc. The Libraries like SQLAlchemy, Django ORM helps in implementing ORM.
 
 Database
 --------
