@@ -48,6 +48,13 @@ CMS
 * [Wagtail](http://wagtail.io/) - A Django content management system.
 * [Widgy](http://wid.gy/) - Last CMS framework, based on Django.
 
+Python in the Browser
+---------------------
+
+*Tools that enable running Python client-side: Why should the server have all the good languages...*
+
+* [Transcrypt](http://www.transcrypt.org/) - Python 3.6 to JavaScript compiler, code size and speed comparable to JavaScript, source level debugging, optional static typechecking, linting and minification, direct use of any JavaScript library.
+
 E-commerce
 ----------
 
