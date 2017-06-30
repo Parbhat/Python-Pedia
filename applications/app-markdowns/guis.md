@@ -30,3 +30,4 @@ The following people helped in creating the above content.
 
 * Contributors to <a href="https://github.com/vinta/awesome-python" target="_blank">awesome-python</a>
 * <a href="https://github.com/leotada" target="_blank">leotada</a>
+* <a href="https://github.com/Logan1x" target="_blank">Khushal Sharma</a>
