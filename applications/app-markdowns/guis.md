@@ -21,6 +21,7 @@ GUI
 * [PyGObject](https://wiki.gnome.org/Projects/PyGObject) - Python Bindings for GLib/GObject/GIO/GTK+ (GTK+3)
 * [Flexx](https://github.com/zoofIO/flexx) - Flexx is a pure Python toolkit for creating GUI's, that uses web technology for its rendering.
 * [remi](https://github.com/dddomodossola/remi) - RemI is a GUI library for Python applications which transpiles an application's interface into HTML to be rendered in a web browser.
+* [PyAutoGUI](https://pypi.python.org/pypi/PyAutoGUI) - PyAutoGUI is a Python module for programmatically controlling the mouse and keyboard.
 
 Contributors
 ============
