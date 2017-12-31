@@ -8,7 +8,7 @@ Books/Resources
 
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
 * [Think Python](http://www.greenteapress.com/thinkpython/html/index.html)
-* [Dive Into Python 3](http://www.diveinto.org/python3/)
+* [Dive Into Python 3](http://www.diveintopython3.net/)
 * [A Byte of Python](http://www.swaroopch.com/notes/python/)
 * [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
 * [Intermediate Python](http://book.pythontips.com/en/latest/)
