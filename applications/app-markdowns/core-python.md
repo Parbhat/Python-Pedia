@@ -265,6 +265,14 @@ Image processing
 * [PIL](https://pypi.python.org/pypi/PIL) - Adds image processing capabilities to your Python interpreter.
 * [pillow](https://python-pillow.github.io/) - The friendly PIL fork.
 
+Security
+-------------
+
+*Libraries for securing data.*
+
+* [Virgil Security Python SDK](https://github.com/VirgilSecurity/virgil-sdk-python) - An SDK which allows developers to add full end-to-end security to their existing digital solutions to become HIPAA and GDPR compliant and more using Virgil API.
+* [Virgil Python Crypto Library](https://github.com/VirgilSecurity/virgil-crypto-python) - A high-level cryptographic library that allows to perform all necessary operations for securely storing and transferring data.
+
 Contributors
 ============
 
