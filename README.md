@@ -1,5 +1,13 @@
 # [Python-Pedia](https://pythonpedia.com/)
 
+Note: Hello Pythonistas, https://pythonpedia.com  domain has a new owner and points to a new site. The domain is [transferred](https://twitter.com/pythonpedia/status/1091675818391089153). Check it out!
+
+The content from this repo is available at https://pythonpedia.com/en/awesome/gh-35491164-01/python-one-stop-community and content will be synced periodically.
+
+If you like the site with the heart logo ❤️, new URL is https://parbhat.github.io/Python-Pedia/ 
+
+Only thing changed is URL of the site. There was nothing much happening with the site. It seems better to give the domain name to others to create some good stuff.
+
 Python Pedia is one stop solution for Python Programming Resources. The Resources are categorized according to the application of language. It's all about Python.
 
 * [Scientific and Numeric](https://pythonpedia.com/applications/scientific-and-numeric.html)
