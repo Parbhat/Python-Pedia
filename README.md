@@ -1,4 +1,4 @@
-# [Python-Pedia](https://pythonpedia.com/)
+# [Python-Pedia](https://parbhat.github.io/Python-Pedia/)
 
 Note: Hello Pythonistas, https://pythonpedia.com  domain has a new owner and points to a new site. The domain is [transferred](https://twitter.com/pythonpedia/status/1091675818391089153). Check it out!
 
@@ -10,18 +10,18 @@ Only thing changed is URL of the site. There was nothing much happening with the
 
 Python Pedia is one stop solution for Python Programming Resources. The Resources are categorized according to the application of language. It's all about Python.
 
-* [Scientific and Numeric](https://pythonpedia.com/applications/scientific-and-numeric.html)
-* [Web Development](https://pythonpedia.com/applications/web-development.html)
-* [Core Python](https://pythonpedia.com/applications/core-python.html)
-* [Network Programming](https://pythonpedia.com/applications/network-programming.html)
-* [Game Development](https://pythonpedia.com/applications/game-development.html)
-* [Embedded Python](https://pythonpedia.com/applications/embedded-python.html)
-* [Database Access](https://pythonpedia.com/applications/database-access.html)
-* [Devops](https://pythonpedia.com/applications/devops.html)
-* [Guis](https://pythonpedia.com/applications/guis.html)
-* [Testing](https://pythonpedia.com/applications/testing.html)
-* [Tutorials](https://pythonpedia.com/applications/tutorials.html)
-* [Python Community](https://pythonpedia.com/applications/community.html)
+* [Scientific and Numeric](https://parbhat.github.io/Python-Pedia/applications/scientific-and-numeric.html)
+* [Web Development](https://parbhat.github.io/Python-Pedia/applications/web-development.html)
+* [Core Python](https://parbhat.github.io/Python-Pedia/applications/core-python.html)
+* [Network Programming](https://parbhat.github.io/Python-Pedia/applications/network-programming.html)
+* [Game Development](https://parbhat.github.io/Python-Pedia/applications/game-development.html)
+* [Embedded Python](https://parbhat.github.io/Python-Pedia/applications/embedded-python.html)
+* [Database Access](https://parbhat.github.io/Python-Pedia/applications/database-access.html)
+* [Devops](https://parbhat.github.io/Python-Pedia/applications/devops.html)
+* [Guis](https://parbhat.github.io/Python-Pedia/applications/guis.html)
+* [Testing](https://parbhat.github.io/Python-Pedia/applications/testing.html)
+* [Tutorials](https://parbhat.github.io/Python-Pedia/applications/tutorials.html)
+* [Python Community](https://parbhat.github.io/Python-Pedia/applications/community.html)
 
 Contributing
 ------------
