@@ -39,4 +39,4 @@ The Python Programming language has many applications with a large number of res
 6. Pull request can be small also. Even a single line of contribution will make the project awesome.
 7. Add your name with a link to your profile in the contributors list.
 
-A lot of help is taken from [awesome-python](https://github.com/vinta/awesome-python) in creating Python Pedia. Credits goes to all contributors for creating such a great content.
+A lot of help is taken from [awesome-python](https://github.com/vinta/awesome-python) in creating Python Pedia. Credits goes to all contributors for creating such a great content.Reast Set Practice.
