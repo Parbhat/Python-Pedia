@@ -1,4 +1,4 @@
-# [Python-Pedia](https://parbhat.github.io/Python-Pedia/)
+# [Amazing-Python-Pedia](https://parbhat.github.io/Python-Pedia/)
 
 Note: Hello Pythonistas, https://pythonpedia.com  domain has a new owner and points to a new site. The domain is [transferred](https://twitter.com/pythonpedia/status/1091675818391089153). Check it out!
 
