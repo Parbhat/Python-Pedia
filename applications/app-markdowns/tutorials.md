@@ -23,6 +23,7 @@ Online courses/Videos
 * [Google's Python Class](https://developers.google.com/edu/python/?hl=en)
 * [A hands-on introduction to Python for beginning programmers - Jessica McKellar](https://www.youtube.com/watch?v=MirG-vJOg04)
 * [Codecademy - Learn to program in Python, a powerful language](https://www.codecademy.com/tracks/python)
+* [Scaler Topics - Learn Python Programming](https://www.scaler.com/topics/python/)
 
 Contributors
 ============
